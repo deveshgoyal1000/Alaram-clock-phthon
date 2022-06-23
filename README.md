@@ -1,6 +1,5 @@
-# alaram-clock-phthon
-Alarm Clock using Python 
-# Alarm-Clock-Implementation-using-Python
+# Alaram-Clock-Phthon
+# devesh
 
 It is no doubt that an alarm clock is always handy to alert us whenever we Sleep, take a short nap, or to remind us about the work, we always get oblivious about.
 
