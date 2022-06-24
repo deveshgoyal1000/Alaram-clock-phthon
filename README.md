@@ -65,3 +65,4 @@ Clock.mainloop() is the basic and the last command was given to compile all the 
 Sample Output:
 
 ![image](https://user-images.githubusercontent.com/22562694/120532382-41063480-c3fd-11eb-9dbc-1402481f238c.png)
+Thanks
